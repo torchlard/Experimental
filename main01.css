@@ -1,0 +1,49 @@
+body {
+  /* touch-action: pan-right; */
+}
+
+/* h2 {
+  width: 1200px;
+} */
+
+canvas {
+  border: solid black 1px;
+}
+pre {
+  border: 1px solid #dedede;
+  font-size: 2em;
+}
+
+#area {
+  background-color: #efefef;
+  width: 900px;
+  height: 800px;
+  padding: 100px;
+}
+
+#action {
+  font-size: 70px;
+  padding: 200px;
+}
+
+#rect {
+  background-color: rgb(221, 188, 73) ;
+  width: 200px;
+  height: 150px;
+}
+
+.box {
+  border: 2px solid black;
+  width: 200px;
+  height: 150px;
+  position: absolute;
+}
+
+#target {
+  top: 600px;
+}
+
+#target2 {
+  top: 600px;
+  left: 700px;
+}
