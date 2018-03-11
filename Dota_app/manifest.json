@@ -1,0 +1,13 @@
+{
+  "name": "Dota",
+  "short_name": "Dota",
+  "icons": [{
+    "src": "resource/205x115/abaddon_lg.png",
+      "sizes": "205x115",
+      "type": "image/png"
+    }],
+  "start_url": "/main02.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
